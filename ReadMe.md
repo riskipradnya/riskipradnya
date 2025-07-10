@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-I’m currently learning programming 💻🔥
+🎓 Currently studying at Bali State Polytechnic – Informatics Management
+🛠️ Skilled in Bootsrap, Tailwind, CodeIgniter, Flutter, and Java
+🚀 Always excited to learn new tech & frameworks
 
 </div>
 
